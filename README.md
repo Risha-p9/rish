@@ -325,7 +325,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-rishp3%40email.com-%2300FF41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp6229553@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rp6229553%40email.com-%2300FF41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp6229553@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishp3)
 
