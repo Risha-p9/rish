@@ -80,7 +80,7 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚧 PROJECTS IN PROGRESS
 
 <div align="center">
 
@@ -91,8 +91,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300FF41.svg?style=for-the-badge&logo=netlify&logoColor=black)](https://your-link.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishp-3/portfolio-v2)
+
 
 ---
 
@@ -103,8 +102,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300FF41.svg?style=for-the-badge&logo=netlify&logoColor=black)](https://your-link.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishp-3/devconnect)
+
 
 ---
 
@@ -114,8 +112,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300FF41.svg?style=for-the-badge&logo=netlify&logoColor=black)](https://your-link.netlify.app)
-[![Source Code](https://img.shields.io/badge/Source%20Code-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishp-3/ui-component-library)
+
 
 </div>
 
