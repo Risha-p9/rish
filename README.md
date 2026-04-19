@@ -64,19 +64,6 @@
 
 </div>
 
----
-
-## 🚧 CURRENTLY BUILDING
-
-<div align="center">
-
-| 🔨 Project | 🛠️ Stack | 📊 Progress | 🎯 Goal | 🔗 Live Link |
-|:---:|:---:|:---:|:---:|:---:|
-| **Portfolio v2** | React + Tailwind + Framer Motion | `████████░░` 80% | Sleek personal site with project showcase | Coming Soon |
-| **DevConnect** | React + Node.js + Express | `█████░░░░░` 50% | Platform for developers to collaborate | Coming Soon |
-| **UI Component Library** | React + Tailwind CSS | `███░░░░░░░` 30% | Reusable, accessible component kit | Coming Soon |
-
-</div>
 
 ---
 
